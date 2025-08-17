@@ -1,2 +1,3 @@
-# blackjack
-created as final project for our CS class!
+# Blackjack
+Contributors: Kavya Krishnamurthy, Adithri Sharma, Edwin Li
+This project was created as a part of our AP CS A final! It has a working GUI.
